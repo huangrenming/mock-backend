@@ -1,0 +1,392 @@
+{
+    "code": 200,
+    "error": 0,
+    "message": "OK",
+    "data": {
+        "list": [
+            {
+                "company_code": "hzdl",
+                "product_sku": "A03632A13014",
+                "FNSKU": "",
+                "SELLER_SKU": "",
+                "product_title_en": "被套三件套白色Queen",
+                "pd_pic_url": "http://dl.eccang.com/swfupload/upload/dl/202005/29/dl20200529114402_8LgsW.jpg",
+                "platform": "",
+                "user_account_site": "",
+                "ad_id": 624,
+                "ad_id_name": "江静",
+                "ib_cn": 4100,
+                "ad_status": "",
+                "ad_price": 0,
+                "ad_sales": 0,
+                "warehouse_sales_month": 0,
+                "warehouse_sales_long": 0,
+                "common_merchant_id": "",
+                "common_site": "",
+                "warehouse_sales": 0,
+                "prt_id": 0,
+                "prt_id_name": "",
+                "safe_period": [],
+                "dms": 0,
+                "sell_day": 0,
+                "dt": "20210826",
+                "is_shared_inventory": "is",
+                "flag": -1,
+                "nowTime": "2021-08-27 06:47:22",
+                "price": 0,
+                "currency_code": "",
+                "sales_1": 0,
+                "sales_2": 0,
+                "sales_3": 0,
+                "sales_7": 0,
+                "sales_14": 0,
+                "sales_30": 0,
+                "sales_60": 0,
+                "sales_90": 0,
+                "sku_type": "product_sku",
+                "wh_count_list": {
+                    "90天以内": {
+                        "stock_limit": "90天以内",
+                        "stock_quantity_count": 4100,
+                        "stock_list": []
+                    },
+                    "91-180天": {
+                        "stock_limit": "91-180天",
+                        "stock_quantity_count": 0,
+                        "stock_list": []
+                    },
+                    "181-270天": {
+                        "stock_limit": "181-270天",
+                        "stock_quantity_count": 0,
+                        "stock_list": []
+                    },
+                    "271-365天": {
+                        "stock_limit": "271-365天",
+                        "stock_quantity_count": 0,
+                        "stock_list": []
+                    },
+                    "365天以上": {
+                        "stock_limit": "365天以上",
+                        "stock_quantity_count": 0,
+                        "stock_list": []
+                    }
+                },
+                "wh_stock_list": {
+                    "美升仓-美国-加利福尼亚": {
+                        "wh_name": "美升仓-美国-加利福尼亚",
+                        "90天以内": 4100,
+                        "91-180天": 0,
+                        "181-270天": 0,
+                        "271-365天": 0,
+                        "365天以上": 0
+                    }
+                },
+                "first_secound_list": [],
+                "purchase_list": [],
+                "domestic_wh": [],
+                "foreign_wh": {
+                    "暂无数据": {
+                        "country_city_name": "暂无数据",
+                        "count_ib_quantity": 4100,
+                        "count_ib_quantity_cost": 0,
+                        "count_pi_sellable": 4100,
+                        "count_pi_sellable_cost": 0,
+                        "count_pi_unsellable": 0,
+                        "count_pi_unsellable_cost": 0,
+                        "count_pi_reserved": 0,
+                        "count_pi_reserved_cost": 0,
+                        "count_pi_reserved_mv": 0,
+                        "count_pi_reserved_mv_cost": 0,
+                        "count_pi_reserved_wt": 0,
+                        "count_pi_reserved_wt_cost": 0,
+                        "count_pi_planned": 0,
+                        "count_pi_planned_cost": 0,
+                        "count_pi_pending": 0,
+                        "count_pi_pending_cost": 0,
+                        "stock_list": [
+                            {
+                                "warehouse_desc": "美升仓-美国-加利福尼亚",
+                                "ib_quantity": 4100,
+                                "ib_quantity_cost": 0,
+                                "pi_sellable": 4100,
+                                "pi_sellable_cost": 0,
+                                "pi_unsellable": 0,
+                                "pi_unsellable_cost": 0,
+                                "pi_reserved": 0,
+                                "pi_reserved_cost": 0,
+                                "pi_reserved_mv": 0,
+                                "pi_reserved_mv_cost": 0,
+                                "pi_reserved_wt": 0,
+                                "pi_reserved_wt_cost": 0,
+                                "pi_planned": 0,
+                                "pi_planned_cost": 0,
+                                "pi_pending": 0,
+                                "pi_pending_cost": 0
+                            }
+                        ]
+                    }
+                },
+                "children": [
+                    {
+                        "company_code": "hzdl",
+                        "product_sku": "A03632A13014",
+                        "FNSKU": "B07V244F47",
+                        "SELLER_SKU": "",
+                        "product_title_en": null,
+                        "pd_pic_url": null,
+                        "platform": "amazon",
+                        "user_account_site": "",
+                        "ad_id": null,
+                        "ad_id_name": "",
+                        "ib_cn": 437,
+                        "ad_status": "",
+                        "ad_price": 0,
+                        "ad_sales": 29.99,
+                        "warehouse_sales_month": 0,
+                        "warehouse_sales_long": 0,
+                        "common_merchant_id": "A1J1E9EPMS40N6",
+                        "common_site": "",
+                        "warehouse_sales": 0,
+                        "prt_id": 0,
+                        "prt_id_name": "",
+                        "safe_period": [],
+                        "dms": 0,
+                        "sell_day": 0,
+                        "dt": "20210826",
+                        "is_shared_inventory": "is",
+                        "flag": 2,
+                        "nowTime": "2021-08-27 06:47:22",
+                        "price": 0,
+                        "currency_code": "",
+                        "sales_1": 0,
+                        "sales_2": 0,
+                        "sales_3": 0,
+                        "sales_7": 0,
+                        "sales_14": 0,
+                        "sales_30": 0,
+                        "sales_60": 0,
+                        "sales_90": 0,
+                        "sku_type": "fn_sku",
+                        "wh_count_list": {
+                            "90天以内": {
+                                "stock_limit": "90天以内",
+                                "stock_quantity_count": 424,
+                                "stock_list": []
+                            },
+                            "91-180天": {
+                                "stock_limit": "91-180天",
+                                "stock_quantity_count": 0,
+                                "stock_list": []
+                            },
+                            "181-270天": {
+                                "stock_limit": "181-270天",
+                                "stock_quantity_count": 0,
+                                "stock_list": []
+                            },
+                            "271-365天": {
+                                "stock_limit": "271-365天",
+                                "stock_quantity_count": 0,
+                                "stock_list": []
+                            },
+                            "365天以上": {
+                                "stock_limit": "365天以上",
+                                "stock_quantity_count": 0,
+                                "stock_list": []
+                            }
+                        },
+                        "wh_stock_list": {
+                            "未知FBA仓库": {
+                                "wh_name": "未知FBA仓库",
+                                "90天以内": 424,
+                                "91-180天": 0,
+                                "181-270天": 0,
+                                "271-365天": 0,
+                                "365天以上": 0
+                            }
+                        },
+                        "first_secound_list": [],
+                        "purchase_list": [],
+                        "domestic_wh": [],
+                        "foreign_wh": {
+                            "暂无数据": {
+                                "country_city_name": "暂无数据",
+                                "count_ib_quantity": 0,
+                                "count_ib_quantity_cost": 0,
+                                "count_pi_sellable": 0,
+                                "count_pi_sellable_cost": 0,
+                                "count_pi_unsellable": 0,
+                                "count_pi_unsellable_cost": 0,
+                                "count_pi_reserved": 0,
+                                "count_pi_reserved_cost": 0,
+                                "count_pi_reserved_mv": 0,
+                                "count_pi_reserved_mv_cost": 0,
+                                "count_pi_reserved_wt": 0,
+                                "count_pi_reserved_wt_cost": 0,
+                                "count_pi_planned": 0,
+                                "count_pi_planned_cost": 0,
+                                "count_pi_pending": 0,
+                                "count_pi_pending_cost": 0,
+                                "stock_list": [
+                                    {
+                                        "warehouse_desc": "未知仓库",
+                                        "ib_quantity": 0,
+                                        "ib_quantity_cost": 0,
+                                        "pi_sellable": 0,
+                                        "pi_sellable_cost": 0,
+                                        "pi_unsellable": 0,
+                                        "pi_unsellable_cost": 0,
+                                        "pi_reserved": 0,
+                                        "pi_reserved_cost": 0,
+                                        "pi_reserved_mv": 0,
+                                        "pi_reserved_mv_cost": 0,
+                                        "pi_reserved_wt": 0,
+                                        "pi_reserved_wt_cost": 0,
+                                        "pi_planned": 0,
+                                        "pi_planned_cost": 0,
+                                        "pi_pending": 0,
+                                        "pi_pending_cost": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "children": [
+                            {
+                                "company_code": "hzdl",
+                                "product_sku": "A03632A13014",
+                                "FNSKU": "B07V244F47",
+                                "SELLER_SKU": "6936399057537",
+                                "product_title_en": null,
+                                "pd_pic_url": null,
+                                "platform": "amazon",
+                                "user_account_site": "美亚二十四_US",
+                                "ad_id": null,
+                                "ad_id_name": "",
+                                "ib_cn": 437,
+                                "ad_status": "",
+                                "ad_price": 0,
+                                "ad_sales": 29.99,
+                                "warehouse_sales_month": 699.65,
+                                "warehouse_sales_long": 0,
+                                "common_merchant_id": "A1J1E9EPMS40N6",
+                                "common_site": "US",
+                                "warehouse_sales": 699.65,
+                                "prt_id": 0,
+                                "prt_id_name": "",
+                                "safe_period": {
+                                    "total_days": 0,
+                                    "production_days": "0",
+                                    "logistics_days": "0",
+                                    "stock_days": "0",
+                                    "purchase_frequency": "0"
+                                },
+                                "dms": 0,
+                                "sell_day": 90,
+                                "dt": "20210826",
+                                "is_shared_inventory": "is",
+                                "flag": 2,
+                                "nowTime": "2021-08-27 06:47:22",
+                                "price": 0,
+                                "currency_code": "",
+                                "sales_1": 0,
+                                "sales_2": 0,
+                                "sales_3": 0,
+                                "sales_7": 0,
+                                "sales_14": 0,
+                                "sales_30": 0,
+                                "sales_60": 0,
+                                "sales_90": 0,
+                                "sku_type": "seller_sku",
+                                "wh_count_list": {
+                                    "90天以内": {
+                                        "stock_limit": "90天以内",
+                                        "stock_quantity_count": 424,
+                                        "stock_list": []
+                                    },
+                                    "91-180天": {
+                                        "stock_limit": "91-180天",
+                                        "stock_quantity_count": 0,
+                                        "stock_list": []
+                                    },
+                                    "181-270天": {
+                                        "stock_limit": "181-270天",
+                                        "stock_quantity_count": 0,
+                                        "stock_list": []
+                                    },
+                                    "271-365天": {
+                                        "stock_limit": "271-365天",
+                                        "stock_quantity_count": 0,
+                                        "stock_list": []
+                                    },
+                                    "365天以上": {
+                                        "stock_limit": "365天以上",
+                                        "stock_quantity_count": 0,
+                                        "stock_list": []
+                                    }
+                                },
+                                "wh_stock_list": {
+                                    "未知FBA仓库": {
+                                        "wh_name": "未知FBA仓库",
+                                        "90天以内": 424,
+                                        "91-180天": 0,
+                                        "181-270天": 0,
+                                        "271-365天": 0,
+                                        "365天以上": 0
+                                    }
+                                },
+                                "first_secound_list": [],
+                                "purchase_list": [],
+                                "domestic_wh": [],
+                                "foreign_wh": {
+                                    "暂无数据": {
+                                        "country_city_name": "暂无数据",
+                                        "count_ib_quantity": 0,
+                                        "count_ib_quantity_cost": 0,
+                                        "count_pi_sellable": 0,
+                                        "count_pi_sellable_cost": 0,
+                                        "count_pi_unsellable": 0,
+                                        "count_pi_unsellable_cost": 0,
+                                        "count_pi_reserved": 0,
+                                        "count_pi_reserved_cost": 0,
+                                        "count_pi_reserved_mv": 0,
+                                        "count_pi_reserved_mv_cost": 0,
+                                        "count_pi_reserved_wt": 0,
+                                        "count_pi_reserved_wt_cost": 0,
+                                        "count_pi_planned": 0,
+                                        "count_pi_planned_cost": 0,
+                                        "count_pi_pending": 0,
+                                        "count_pi_pending_cost": 0,
+                                        "stock_list": [
+                                            {
+                                                "warehouse_desc": "未知仓库",
+                                                "ib_quantity": 0,
+                                                "ib_quantity_cost": 0,
+                                                "pi_sellable": 0,
+                                                "pi_sellable_cost": 0,
+                                                "pi_unsellable": 0,
+                                                "pi_unsellable_cost": 0,
+                                                "pi_reserved": 0,
+                                                "pi_reserved_cost": 0,
+                                                "pi_reserved_mv": 0,
+                                                "pi_reserved_mv_cost": 0,
+                                                "pi_reserved_wt": 0,
+                                                "pi_reserved_wt_cost": 0,
+                                                "pi_planned": 0,
+                                                "pi_planned_cost": 0,
+                                                "pi_pending": 0,
+                                                "pi_pending_cost": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "totalPage": 1,
+        "total": 1,
+        "page": 1,
+        "pageSize": 10
+    }
+}
