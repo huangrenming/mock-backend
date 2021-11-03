@@ -1,0 +1,73 @@
+option = {
+  title: {
+    text: 'World Population'
+  },
+  tooltip: {
+    trigger: 'axis',
+    axisPointer: {
+      type: 'shadow'
+    }
+  },
+  legend: {},
+  grid: {
+    left: '3%',
+    right: '4%',
+    bottom: '3%',
+    containLabel: true
+  },
+  xAxis: {
+    type: 'value',
+    boundaryGap: true,
+    inverse: false,
+    inside: true,
+    nameLocation:'end',
+    nameTextStyle: {
+      color: 'red'
+    },
+    axisLabel: {
+      show:true,
+      align: 'center'
+    },
+    axisTick: {
+      alignWithLabel: true
+    }
+  },
+  yAxis: {
+    name: '单位：USD',
+    nameLocation: 'end',
+    nameRotate: 0,
+    nameGap: 18,
+    type: 'category',
+    boundaryGap: true,
+    nameTextStyle:{
+      verticalAlign:'middle',
+      padding: [3,80, 3, 4]
+    },
+    axisTick: {
+      show:false,
+      alignWithLabel: true
+    },
+    axisLabel: {
+      show:true,
+      align: 'right',
+      padding: [0, 0, 0, 0],
+      width: 80,
+      overflow:'truncate'
+    },
+    inside: false,
+    data: ['Brazil', 'Indones0000000', 'USA', 'India', 'China', 'World']
+  },
+  series: [
+    {
+      type: 'bar',
+      label: {
+        show: true,
+        distance: 0,
+        offset:[0, -15],
+        position: 'insideLeft',
+      },
+      barWidth: 15,
+      data: [19325, 23438, 31000, 121594, 134141, 681807, 1681807]
+    }
+  ]
+};
